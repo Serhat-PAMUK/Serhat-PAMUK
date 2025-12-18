@@ -26,7 +26,6 @@
 ## 🌐 Other Technologies
 - ⚛️ React
 - 🟢 Node.js
-- 🔥 Supabase
 - 🐳 Docker (basic)
 - ☁️ REST & JSON APIs
 
