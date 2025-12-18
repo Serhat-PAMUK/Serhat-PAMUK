@@ -1,16 +1,67 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Serhat%20Pamuk&fontSize=40&fontColor=ffffff" />
+</p>
 
-<!--
-**Serhat-PAMUK/Serhat-PAMUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Java Backend Developer | Spring Ecosystem | Database Systems</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Backend & Server-Side Technologies
+- ☕ **Java**
+- 🌱 **Spring Boot**
+- 🔐 Spring Security (JWT, Auth)
+- 🧩 RESTful API Design
+- 🏗️ Layered Architecture (Controller–Service–Repository)
+
+---
+
+## 🗄️ Database & Data Technologies
+- 🐘 **PostgreSQL**
+- 🐬 MySQL
+- 🧠 JPA / Hibernate
+- 🔄 Database Relations & Optimization
+
+---
+
+## 🌐 Other Technologies
+- ⚛️ React
+- 🟢 Node.js
+- 🔥 Supabase
+- 🐳 Docker (basic)
+- ☁️ REST & JSON APIs
+
+---
+
+## 🤖 AI & Automation
+- GPT-powered systems
+- Business process automation
+- AI-assisted productivity tools
+- KOBİ odaklı otomasyon çözümleri
+
+---
+
+## 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Serhat-PAMUK&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serhat-PAMUK&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🎯 Currently Working On
+- Java Spring Boot backend systems
+- AI-powered automation platforms
+- Scalable database-driven applications
+
+---
+
+## 📫 Contact
+- 💼 LinkedIn: (ekleyeceksin)
+- 📧 Email: (ekleyeceksin)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
+</p>
