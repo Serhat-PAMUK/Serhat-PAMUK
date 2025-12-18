@@ -59,8 +59,8 @@
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: (ekleyeceksin)
-- 📧 Email: (ekleyeceksin)
+- 💼 LinkedIn: https://www.linkedin.com/in/serhat-pamuk-152a87254/
+- 📧 Email: serhatpamuk0@gmail.com
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
