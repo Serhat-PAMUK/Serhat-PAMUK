@@ -6,9 +6,6 @@
 
 ---
 
-<p align="center">
-  <img src="/Skills_Animation_Dark.gif" width="600" />
-</p>
 
 
 
