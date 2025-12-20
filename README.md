@@ -6,9 +6,7 @@
 
 ---
 
-<p align="center">
-  <img src="Skills_Animation_Dark.gif" width="600" />
-</p>
+
 
 
 
@@ -19,6 +17,9 @@
 - 🧩 RESTful API Design
 - 🏗️ Layered Architecture (Controller–Service–Repository)
 
+<p align="center">
+  <img src="/Skills_Animation_Dark.gif" width="600" />
+</p>
 ---
 
 ## 🗄️ Database & Data Technologies
