@@ -26,7 +26,6 @@
 </p>
 
 <p align="center">
-Java • Spring Boot • Spring Security • C# • AWS • Azure • Kafka • Docker • MongoDB • Redis • RabbitMQ • GPT
 </p>
 
 
