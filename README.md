@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Serhat%20Pamuk&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h3 align="center">Java Backend Developer | Spring Ecosystem | Database Systems</h3>
+<h3 align="center"> Learning to Build Things</h3>
 
 ---
 
