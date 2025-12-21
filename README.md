@@ -60,20 +60,6 @@ Java • Spring Boot • Spring Security • C# • AWS • Azure • Kafka • 
 
 
 
-#### 📅 Commit activity
-
-<div style="display:flex; justify-content:flex-end;">
-  <img 
-    src="./metrics.plugin.isocalendar.fullyear.svg"
-    width="880"
-    alt="GitHub Metrics"
-  />
-</div>
-
-<p style="font-size:13px; color:#9ca3af;" align="right">
-  Yearly isometric commit calendar
-</p>
-
 
 
 
