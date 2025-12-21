@@ -59,3 +59,14 @@ Java • Spring Boot • Spring Security • C# • AWS • Azure • Kafka • 
 </p>
 
 
+
+<div style="display:flex; justify-content:flex-end;">
+  <img 
+    src="./metrics.plugin.isocalendar.fullyear.svg"
+    width="950"
+    alt="GitHub Metrics"
+  />
+</div>
+
+
+
