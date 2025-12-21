@@ -6,42 +6,31 @@
 
 ---
 
+<img src="https://lottiefiles.com/free-animation/algorithm-EJwRrPCars" width="200"/>
 
 
 
-## 🧠 Backend & Server-Side Technologies
-- ☕ **Java**
-- 🌱 **Spring Boot**
-- 🔐 Spring Security (JWT, Auth)
-- 🧩 RESTful API Design
-- 🏗️ Layered Architecture (Controller–Service–Repository)
+## 🚀 Tech Stack
+
+<p align="center">
+   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3FyNDFnM3A5cHE2ZHZ5MzVudGt5eW9lZnBydWl3NGZweWlwZm9tMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/hO8uTzEOefFh3Yv5gm/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/XH9wwXfUXu91wAJwN5/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"/>
+</p>
+
+<p align="center">
+Java • Spring Boot • Spring Security • C# • AWS • Azure • Kafka • Docker • MongoDB • Redis • RabbitMQ • GPT
+</p>
 
 
----
-
-## 🗄️ Database & Data Technologies
-- 🐘 **PostgreSQL**
-- 🐬 MySQL
-- 🧠 JPA / Hibernate
-- 🔄 Database Relations & Optimization
-
----
-
-## 🌐 Other Technologies
-- ⚛️ React
-- 🟢 Node.js
-- 🐳 Docker (basic)
-- ☁️ REST & JSON APIs
-
----
-
-## 🤖 AI & Automation
-- GPT-powered systems
-- Business process automation
-- AI-assisted productivity tools
-- KOBİ odaklı otomasyon çözümleri
-
----
 
 ## 📊 GitHub Statistics
 <p align="center">
@@ -68,3 +57,5 @@
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
 </p>
+
+
