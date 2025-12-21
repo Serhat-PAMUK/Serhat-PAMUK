@@ -6,7 +6,6 @@
 
 ---
 
-<img src="https://lottiefiles.com/free-animation/algorithm-EJwRrPCars" width="200"/>
 
 
 
