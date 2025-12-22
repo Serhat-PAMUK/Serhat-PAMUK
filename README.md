@@ -25,8 +25,6 @@
   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"/>
 </p>
 
-<p align="center">
-</p>
 
 
 
@@ -38,6 +36,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serhat-PAMUK&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Serhat-PAMUK&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
