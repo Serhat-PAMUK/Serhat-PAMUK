@@ -29,17 +29,20 @@
 
 
 ## 📊 GitHub Statistics
-
 <!-- 1. Genel istatistikler full-width -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Serhat-PAMUK&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Serhat-PAMUK&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <!-- 2. En çok kullanılan diller ve streak yan yana -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Serhat-PAMUK&layout=compact&theme=tokyonight" width="30%" style="display:inline-block;margin-right:50%;" />
-  <img src="https://streak-stats.demolab.com/?user=Serhat-PAMUK&theme=tokyonight&hide_border=true" width="49%" style="display:inline-block;margin-left:35%;" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Serhat-PAMUK&layout=compact&theme=tokyonight&cache_seconds=86400"
+       width="30%" style="display:inline-block;margin-right:50%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Serhat-PAMUK&theme=tokyonight"
+       width="49%" style="display:inline-block;margin-left:35%;" />
 </p>
+
+
 
 
 
